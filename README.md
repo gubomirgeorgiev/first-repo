@@ -2,8 +2,7 @@
 This project will contains...
 Repository made for excercises.
 Edited again in master branch...
-Addidididiid more
-more 
-different lines
-heree
+
+
+So this is resoved result for merging master with develop branch
 
