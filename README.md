@@ -11,3 +11,10 @@ some changes again
 thus I can do the same
 trick on gitBash
 
+
+And now I have to add even more line on the remote
+repo thus I can create
+a conflict!
+
+
+Resolved conflict after pulling in bash!
