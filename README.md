@@ -1,4 +1,5 @@
 # first-repo
-Repo made for excersises!
-I reslove the conflict
+This project will contains...
+Repository made for excercises.
+Edited again in master branch...
 
