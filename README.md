@@ -18,3 +18,7 @@ a conflict!
 
 
 Resolved conflict after pulling in bash!
+
+!!!Changes maked on Master
+using bash
+!!!
