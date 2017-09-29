@@ -22,3 +22,11 @@ Resolved conflict after pulling in bash!
 !!!Changes maked on Master
 using bash
 !!!
+
+Now continuing addind
+some changes
+for the new brach made 
+on bash
+
+
+CONFLICT FIXED USING BASH!
