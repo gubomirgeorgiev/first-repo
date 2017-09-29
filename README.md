@@ -18,3 +18,8 @@ a conflict!
 
 
 Resolved conflict after pulling in bash!
+
+Now continuing addind
+some changes
+for the new brach made 
+on bash
